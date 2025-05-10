@@ -1,2 +1,2 @@
-source /Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader/gdbinit/symbols
-source /Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader/gdbinit/connect
+source /Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader/gdbinit/symbols
+source /Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader/gdbinit/connect

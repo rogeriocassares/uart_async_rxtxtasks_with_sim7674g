@@ -13,8 +13,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file /Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader/bootloader.elf
+    add-symbol-file /Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader/bootloader.elf
 set confirm on
 
 # Load application symbols
-file /Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/uart_async_rxtxtasks.elf
+file /Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/uart_async_rxtxtasks.elf

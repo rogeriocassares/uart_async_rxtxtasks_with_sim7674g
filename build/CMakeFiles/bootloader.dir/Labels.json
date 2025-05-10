@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/CMakeFiles/bootloader"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/CMakeFiles/bootloader.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

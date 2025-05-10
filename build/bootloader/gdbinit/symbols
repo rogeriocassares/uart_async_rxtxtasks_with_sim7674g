@@ -17,4 +17,4 @@ set confirm off
 set confirm on
 
 # Load application symbols
-file /Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader/bootloader.elf
+file /Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader/bootloader.elf

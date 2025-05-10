@@ -1,4 +1,4 @@
-# Install script for directory: /Users/rogeriocassares/Downloads/uart_async_rxtxtasks/main
+# Install script for directory: /Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

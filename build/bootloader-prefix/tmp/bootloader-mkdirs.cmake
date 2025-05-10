@@ -10,18 +10,18 @@ if(NOT EXISTS "/Users/rogeriocassares/esp/v5.4.1/esp-idf/components/bootloader/s
   file(MAKE_DIRECTORY "/Users/rogeriocassares/esp/v5.4.1/esp-idf/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader"
-  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix"
-  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/tmp"
-  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp"
-  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src"
-  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp"
+  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader"
+  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix"
+  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/tmp"
+  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp"
+  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src"
+  "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "/Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

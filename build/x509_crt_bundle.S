@@ -1,4 +1,4 @@
-/* * Data converted from /Users/rogeriocassares/Downloads/uart_async_rxtxtasks/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /Users/rogeriocassares/Downloads/uart_async_rxtxtasks_with_sim7674g_and_twai/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)
